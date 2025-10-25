@@ -1,4 +1,4 @@
 function downloadApk() {
 
-  window.location.href = "QuickMart.apk";
+  window.location.href = "quick.apk";
 }
